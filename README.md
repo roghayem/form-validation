@@ -12,7 +12,7 @@ A simple and responsive Form Validation project built using HTML, CSS, and JavaS
 
 ## 🖼️ Preview
 
-[Form Validation](https://github.com/roghayem/form-validation/raw/main/asses/Form-Validation-08-31-2026_06_00_PM.png)
+![Form Validation](https://github.com/roghayem/form-validation/raw/main/asses/Form-Validation-08-31-2026_06_00_PM.png)
 
 ---
 
