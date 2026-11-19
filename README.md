@@ -1,18 +1,18 @@
-# Form Validation
+# 📝 Form Validation
 
-A simple and responsive Form Validation project built with HTML, CSS, and JavaScript. This project was created to practice validating user input, handling form events, and displaying clear feedback before form submission.
+A simple and responsive Form Validation project built using HTML, CSS, and JavaScript. This application allows users to validate their input, handle form events, and receive clear feedback before submitting the form.
 
 ---
 
 ## 🌟 Live Demo
 
-[View Live Demo](https://roghayem.github.io/form-validation/)
+👉 View Live Demo: [https://roghayem.github.io/form-validation/](https://roghayem.github.io/form-validation/)
 
 ---
 
 ## 🖼️ Preview
 
-![Form Validation Preview](https://github.com/roghayem/form-validation/raw/main/asses/Form-Validation-08-31-2026_06_00_PM.png)
+[Form Validation](https://github.com/roghayem/form-validation/raw/main/asses/Form-Validation-08-31-2026_06_00_PM.png)
 
 ---
 
@@ -52,7 +52,7 @@ To run this project locally:
    git clone https://github.com/roghayem/form-validation.git
    ```
 
-2. Navigate to the project folder:
+2. Open the project folder:
 
    ```bash
    cd form-validation
@@ -75,11 +75,11 @@ form-validation/
 
 ---
 
-## 🎯 What I Learned
+## 📚 What I Learned
 
 Through this project, I practiced:
 
-- Validating form input
+- Validating user input
 - Working with DOM elements
 - Handling JavaScript events
 - Using conditional logic
@@ -90,14 +90,12 @@ Through this project, I practiced:
 
 ---
 
-## 📧 Contact
+## 👩‍💻 Author
 
-Feel free to explore my GitHub profile and check out more of my projects.
+**Roghaye Mohammadi**
 
-[GitHub Profile](https://github.com/roghayem)
+- GitHub: [@roghayem](https://github.com/roghayem)
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a star on GitHub.
+⭐ If you like this project, feel free to give it a star!
