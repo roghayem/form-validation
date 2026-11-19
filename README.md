@@ -1,61 +1,62 @@
-# ✅ Form Validation
+# Form Validation
 
-A simple and responsive Form Validation project built using HTML, CSS, and JavaScript. This project was created as a practice exercise to learn how to validate user input and provide useful feedback before submitting a form.
+A simple and responsive Form Validation project built with HTML, CSS, and JavaScript. This project was created to practice validating user input, handling form events, and displaying clear feedback before form submission.
 
 ---
 
 ## 🌟 Live Demo
 
-👉 View Live Demo:
-https://roghayem.github.io/form-validation/
+[View Live Demo](https://roghayem.github.io/form-validation/)
 
 ---
 
 ## 🖼️ Preview
 
-![Form Validation Preview](asses/Form-Validation-08-31-2026_06_00_PM.png)
+![Form Validation Preview](https://github.com/roghayem/form-validation/raw/main/asses/Form-Validation-08-31-2026_06_00_PM.png)
 
 ---
 
 ## ✨ Features
 
-* ✅ Validate user input
-* ⚠️ Display error messages for invalid fields
-* 📝 Check required fields
-* 📧 Validate email format
-* 🔒 Validate password input
-* ✔️ Show success state for valid inputs
-* 📱 Responsive design
-* 🎨 Simple and clean user interface
+- Validate user input
+- Display error messages for invalid fields
+- Check required fields
+- Validate email format
+- Validate password input
+- Display a success state for valid inputs
+- Responsive design
+- Clean and simple user interface
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Built With
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* DOM Manipulation
-* JavaScript Events
-* Regular Expressions
-* CSS Flexbox
-* Media Queries
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- DOM Manipulation
+- JavaScript Events
+- Regular Expressions
+- CSS Flexbox
+- Media Queries
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Getting Started
+
+To run this project locally:
 
 1. Clone the repository:
 
-```bash
-git clone YOUR-REPOSITORY-LINK
-```
+   ```bash
+   git clone https://github.com/roghayem/form-validation.git
+   ```
 
-2. Open the project folder:
+2. Navigate to the project folder:
 
-```bash
-cd form-validation
-```
+   ```bash
+   cd form-validation
+   ```
 
 3. Open `index.html` in your browser.
 
@@ -74,20 +75,18 @@ form-validation/
 
 ---
 
-## 🎯 Project Goals
+## 🎯 What I Learned
 
-This project was created to practice and improve:
+Through this project, I practiced:
 
-* Form Validation
-* DOM Manipulation
-* JavaScript Events
-* Getting and Checking User Input
-* Conditional Logic
-* Regular Expressions
-* Error Handling
-* User Feedback
-* Responsive Web Design
-* Front-End Development Fundamentals
+- Validating form input
+- Working with DOM elements
+- Handling JavaScript events
+- Using conditional logic
+- Writing regular expressions
+- Displaying validation errors and success messages
+- Improving responsive layouts
+- Strengthening front-end development fundamentals
 
 ---
 
@@ -95,10 +94,10 @@ This project was created to practice and improve:
 
 Feel free to explore my GitHub profile and check out more of my projects.
 
-GitHub: https://github.com/roghayem
+[GitHub Profile](https://github.com/roghayem)
 
 ---
 
 ## ⭐ Support
 
-If you like this project, consider giving it a star on GitHub.
+If you find this project useful, consider giving it a star on GitHub.
